@@ -20,6 +20,8 @@ My name is Pierre Sabbagh and I am a Junior Software Developer. I try to do lot 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
 </p>
 
+---
+
 ### Contact me!
 
 I am always open for collaboration, if you find any of my work interesting please send me a message! Even if nothing interests you, please send me a message anyway!
