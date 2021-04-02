@@ -32,7 +32,7 @@ I am always open for collaboration, if you find any of my work interesting pleas
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge" />
   </a>
   <a href="https://wa.me/96176630992">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-0077B5?logo=WhatsApp&logoColor=white&style&style=for-the-badge" />
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=WhatsApp&logoColor=white&style&style=for-the-badge" />
   </a>
  </p>
  
