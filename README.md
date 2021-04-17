@@ -24,7 +24,7 @@ I'm Pierre and I am a Jr. Software Developer. Let's make the world a better plac
 
 ### Contact me!
 
-If you have any feedback or if you find any of my work itneresting or just want to contact me please do not hesitate!
+If you have any feedback or if you find any of my work interesting or just want to contact me please do not hesitate!
 
 <p>
   <a href="https://www.instagram.com/sabbaghpierre/">
