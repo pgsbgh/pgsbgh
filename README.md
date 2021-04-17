@@ -12,6 +12,7 @@ I'm Pierre and I am a Jr. Software Developer. Let's make the world a better plac
 
 <p>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-02569B?logo=flutter&logoColor=white&style=for-the-badge"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
