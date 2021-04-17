@@ -11,7 +11,7 @@ I'm Pierre and I am a Jr. Software Developer. Let's make the world a better plac
 ### What do I do?
 
 <p>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=FOR-THE-BADGE"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat"/>
@@ -40,6 +40,6 @@ If you have any feedback or if you find any of my work interesting or just want 
  
  ---
  
- ### Github stats
+ ### Github Stats
  
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabsons&layout=compact&theme=radical" />
