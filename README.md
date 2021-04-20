@@ -4,7 +4,7 @@
 
 ### Greetings!
 
-I'm Pierre and I am a Jr. Software Developer. Let's make the world a better place.
+I'm Pierre, a Jr. Software Developer. Let's make the world a better place.
 
 ---
 
