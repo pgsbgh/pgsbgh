@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm Pierre, a Jr. Software Developer. I want to give back, to do something big, to make a difference.
+I'm Pierre, a Jr. Software Developer. My ambition is to give back, to do something big, to make a difference.
 
 ---
 
