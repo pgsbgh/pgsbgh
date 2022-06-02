@@ -1,4 +1,4 @@
-### Greetings! https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8
+### Greetings! <img alt="Wave" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8"/>
 
 
 I'm Pierre, a Jr. Software Developer. My ambition is to give back, to do something big, to make a difference.
