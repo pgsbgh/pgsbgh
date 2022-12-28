@@ -1,7 +1,7 @@
 ### Greetings! :wave:
 
 
-I'm Pierre, a Jr. Software Developer. My ambition is to give back, to do something big, to make a difference.
+I'm Pierre, a Software Developer. My ambition is to give back, to do something big, to make a difference.
 
 ---
 
