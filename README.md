@@ -21,8 +21,6 @@ To learn more about me, you can check my <a href="sabbaghpierre.github.io" targe
 
 ---
 
-### Contact me!
-
 If you have any feedback or if you find any of my work interesting or just want to contact me please do not hesitate!
 
 <p>
@@ -39,7 +37,6 @@ If you have any feedback or if you find any of my work interesting or just want 
  
  ---
  
- ### Github Stats
  <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbaghpierre&layout=default&theme=apprentice&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=sabbaghpierre&layout=default&theme=apprentice&hide_border=true" />
