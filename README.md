@@ -41,4 +41,4 @@ If you have any feedback or if you find any of my work interesting or just want 
  
  ### Github Stats
  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbaghpierre&layout=compact&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbaghpierre&layout=default&theme=apprentice" />
