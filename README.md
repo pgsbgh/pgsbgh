@@ -38,6 +38,6 @@ If you have any feedback or if you find any of my work interesting or just want 
  ---
  
  <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbaghpierre&layout=default&theme=apprentice&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbaghpierre&theme=apprentice&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=sabbaghpierre&layout=default&theme=apprentice&hide_border=true" />
 <div>
