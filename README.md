@@ -5,7 +5,7 @@ I'm Pierre, a Software Developer. I'm always eager to learn. My ambition is to g
 
 I'm mostly a Mobile Developer, using mainly Flutter & React Native to develop my apps. I'm also interested in Jetpack Compose and SwiftUI. I've tinkered with back-end frameworks like Express, Dart Frog and FastAPI.
 
-To learn more about me, you can check my <a href="sabbaghpierre.github.io" target="_blank">website</a>!
+To learn more about me, you can check my <a href="https://sabbaghpierre.github.io" target="_blank">website</a>!
 
 ---
 
