@@ -8,6 +8,7 @@ Currently, these are the technologies I am mostly comfortable using.
 <div>
 <img  alt="Flutter" src="https://img.shields.io/badge/Flutter-027DFD?logo=flutter&logoColor=white&style=for-the-badge"/>
 <img  alt="React Native" src="https://img.shields.io/badge/ReactNative-1c2c4c?logo=react&logoColor=white&style=for-the-badge"/>
+<img  alt="Angular" src="https://img.shields.io/badge/Angular-dd0031?logo=angular&logoColor=white&style=for-the-badge"/>
 </div>
 
 ---
